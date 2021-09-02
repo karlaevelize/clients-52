@@ -27,3 +27,6 @@
 ## Run the server ##
 
 - `npx nodemon server.js` This way you dont have to restart it
+
+## Client set up ##
+
