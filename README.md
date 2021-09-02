@@ -1,3 +1,16 @@
+## Npm set up ##
+
+- npm init -y
+- npm i express
+
+## Git ignore ##
+
+- touch .gitignore
+- nano .gitignore `text editor inside the terminal` and write `node_modules`. Save and exit
+- cat .gitignore `check if it's written`
+
+## Git set up ##
+
 - git init
 - git add .
 - git commit -m "Message"
