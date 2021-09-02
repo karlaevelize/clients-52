@@ -10,3 +10,7 @@
 - git clone git@github.com:karlaevelize/clients-52.git
 - cd in the folder
 - run `npm install`
+
+## Run the server ##
+
+- `npx nodemon server.js` This way you dont have to restart it
